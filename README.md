@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mavrishabh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="mavrishabh" height="30" width="40" /></a>
 <a href="https://instagram.com/mav_rishabh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="mav_rishabh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rishabh_63" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rishabh_63" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rishabh_43" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rishabh_43" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rishabh_maverick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.svg" alt="rishabh_maverick" height="30" width="40" /></a>
 </p>
 
